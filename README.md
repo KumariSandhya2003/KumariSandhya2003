@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KumariSandhya2003
+- 👋 Hi, I’m Sandhya (Sandy)
 - 👀 I’m interested in data mining and retrieving insights.
 - 🌱 I’m currently learning different domain knowledge.
 - 💞️ I’m looking to collaborate on any topics in data science
