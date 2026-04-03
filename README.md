@@ -2,7 +2,7 @@
 - **Data Professional | Researcher | Analytics Specialist**
 - 👀 I specialize in transforming complex datasets into actionable insights using SQL, Python, and specialized healthcare data models. 
       Currently, I am expanding my focus into the quantitative modeling of neural circuits and the impact of digital environments on human behavior.
-- 🌱 ### 🧬 Current Research & Projects
+- ### 🌱🧬 Current Research & Projects
 * **Neural Circuit Analysis:** Developing Python-based models to simulate neural spike patterns under varied stimuli.
 * **Automated Health Dashboards:** Building end-to-end Power BI solutions that unify disparate ambulatory data.
 * **Digital Behavior Studies:** Analyzing high-frequency interaction data to map attention spans in virtual environments.
