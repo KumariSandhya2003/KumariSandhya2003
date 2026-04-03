@@ -12,7 +12,6 @@
 * **Domain Expertise:** Healthcare Data Systems, Behavioral Analytics, Neural Circuitry Modeling
 * **Tools:** Git, Jupyter Notebooks, ETL Automation
 - 💞️ I’m looking to collaborate on any topics in data science
-- 📫 you can reach me via email.
 
 ### 📊 GitHub Stats
 ![Your GitHub Wid Tableau](https://public.tableau.com/profile/sandhya.kumari#!/vizhome/Supers_Store_Supply_Chain/SalesAnalysisStory)
